@@ -1,4 +1,4 @@
 {
-    "saveEndpoint": "http://localhost:7071/api/save",
+    "saveEndpoint": "https://4a4cvisionfuncapp.azurewebsites.net/api/save",
     "maxSubmitCount": 4
 }
